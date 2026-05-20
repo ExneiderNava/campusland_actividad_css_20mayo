@@ -1,4 +1,4 @@
 Grupo:
-Exneider Alfonso Nava Archila
-Hamilton Quiroga
+Exneider Alfonso Nava Archila <br>
+Hamilton Quiroga <br>
 Carlos Said
